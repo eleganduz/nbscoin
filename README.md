@@ -3,7 +3,7 @@ Nbscoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/nbscoin-project/nbscoin.svg?branch=master)](https://travis-ci.org/nbscoin-project/nbscoin)
 
-https://nbscoin.org
+https://nbscoin.uz
 
 What is Nbscoin?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. Nbscoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Nbscoin Core software, see [https://nbscoin.org](https://nbscoin.org).
+the Nbscoin Core software, see [https://nbscoin.org](https://nbscoin.uz).
 
 License
 -------
